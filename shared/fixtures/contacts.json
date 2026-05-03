@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ct_001",
+    "name": "Sara Chen",
+    "email": "sara.chen@acme-robotics.com",
+    "company": "Acme Robotics",
+    "title": "Head of Platform",
+    "stage": "prospect",
+    "notes": "Met at RoboConf 2026. Interested in integrating our SDK into their fleet orchestration."
+  },
+  {
+    "id": "ct_002",
+    "name": "Priya Iyer",
+    "email": "priya@acme-robotics.com",
+    "company": "Acme Robotics",
+    "title": "Engineering Lead",
+    "stage": "prospect",
+    "notes": "Reports to Sara. Technical decision-maker."
+  },
+  {
+    "id": "ct_003",
+    "name": "Raj Patel",
+    "email": "raj.patel@globex.io",
+    "company": "Globex",
+    "title": "VP Engineering",
+    "stage": "customer",
+    "notes": "Active Q2 pilot. Expanding scope to include fraud-detection module."
+  },
+  {
+    "id": "ct_004",
+    "name": "Alex Kim",
+    "email": "alex@internal.example.com",
+    "company": "Internal",
+    "title": "Teammate",
+    "stage": "internal",
+    "notes": "Sits one desk over. Ramen enthusiast."
+  }
+]
