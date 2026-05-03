@@ -131,7 +131,7 @@ costs **under $0.50**. The capstone adds a few cents per run. Use a real model
 
 Tick these off as you finish:
 
-- [ ] Module 0: `hello_agent.py` runs and calls two tools
+- [x] Module 0: `hello_agent.py` runs and calls two tools
 - [ ] Module 1: `project_workflow_v1.py` triages 3 emails end-to-end
 - [ ] Module 2: `project_workflow_v2.py` does the same via handoffs
 - [ ] Module 3: `project_workflow_v3.py` does it with a 3-agent crew
